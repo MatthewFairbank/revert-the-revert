@@ -1,5 +1,5 @@
 {
-    "production": "",
+    "production": "v1.0.0",
     "staging": "v1.0.0",
     "develop": "v1.0.0"
 }
